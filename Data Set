@@ -1,0 +1,6 @@
+https://www.kaggle.com/nicolejyt/facialexpressionrecognition
+
+download complete data
+
+using keras split into test & train data 
+remember they are 48X48 grayscale image
